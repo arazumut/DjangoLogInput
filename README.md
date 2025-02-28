@@ -19,3 +19,8 @@ To successfully run this example, we recommend the following VS Code extensions:
 - Create and initialize the database by running `python manage.py migrate` in an activated terminal. 
 - Run the app using the Run and Debug view or by pressing `F5`
 - Run tests by running `python manage.py test` in an activated terminal
+<img width="1710" alt="Ekran Resmi 2025-02-28 20 44 43" src="https://github.com/user-attachments/assets/d26b1fc4-0e9b-4eac-868b-22eeaea7b8aa" />
+<img width="1710" alt="Ekran Resmi 2025-02-28 20 44 26" src="https://github.com/user-attachments/assets/5b9522ea-0475-41f6-93a5-4dca87037924" />
+
+
+
