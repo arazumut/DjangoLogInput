@@ -8,6 +8,7 @@ The code in this repo aims to follow Python style guidelines as outlined in [PEP
 
 ## Running the Sample
 
+
 To successfully run this example, we recommend the following VS Code extensions:
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - [Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
